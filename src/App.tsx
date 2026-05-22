@@ -5,6 +5,7 @@ function App() {
     <h1>khadicha abdulayeva</h1>
     <p>something</p>
     <h1>nothing</h1>
+    <h1>project</h1>
   </div>
 }
 
